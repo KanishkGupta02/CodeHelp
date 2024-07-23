@@ -1,7 +1,3 @@
-Sure, here's the updated `README.md` to reflect your current project structure:
-
----
-
 # CodeHelp
 
 ## Index
@@ -173,8 +169,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com].
+For any questions or feedback, please contact [kanishkgupta.dev@gmail.com].
 
 ---
-
-Feel free to replace the placeholder values like the repository URL, email, and other details with your actual information.
