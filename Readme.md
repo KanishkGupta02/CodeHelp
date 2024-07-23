@@ -1,3 +1,7 @@
+Sure, here's the updated `README.md` to reflect your current project structure:
+
+---
+
 # CodeHelp
 
 ## Index
